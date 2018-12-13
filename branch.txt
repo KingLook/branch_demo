@@ -2,5 +2,9 @@ branch source tree demo
 
 feature -y demo 
 
+<<<<<<< HEAD
 
 wo zhe li shi master tian jia de nei rong 
+=======
+zhe li shi feature fen zhi cao zuo nei rong 
+>>>>>>> feature_y
